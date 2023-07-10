@@ -26,8 +26,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="9" tvg-name="Radio exitosa", Radio Exitosa * | PE
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="AZTVAnime Zone", AZTV Anime * | ES
-https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="cartoonito", CARTOONITO * | ES
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="Televisa Guadalajara" , Televisa Guadalajara * | MX
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
